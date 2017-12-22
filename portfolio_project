@@ -1,0 +1,168 @@
+<DOCTYPE html>
+    <html>
+
+    <head>
+        <!-- Including stylesheet designs -->
+        <link rel="stylesheet" href="style.css">
+        <!-- Including Bootstrap 4 -->
+        <link rel="stylesheet " href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.2/css/bootstrap.css">
+        <!-- Including jQuery -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <!-- Including Font Awesome -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <!-- Javascript file-->
+        <!-- <script src="script.js"></script> -->
+    </head>
+
+    <body>
+        <nav class="navbar navbar-expand-lg bg-info navbar-dark">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link active" href="#about">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#portfolio">Portfolio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#contact">Contact</a>
+                </li>
+            </ul>
+        </nav>
+        <div class="row">
+            <div class="col-lg-3"></div>
+            <div class="col-lg-6">
+
+                <div class="#">
+                    <div id="about">
+                        <h1>UX/UI Front-End Developer</h1>
+                        <p>A highly motivated IT professional with a wide area of technical knowledge, from Client/Enterprise solutions to web development. I work well under intense conditions, whether it be with a team or alone. I am go-getter and resourceful
+                            person, yet I have no problems asking for help when necessary. I lead by example, and am responsible and dependable. I look forward to connecting with those of you who are looking to expand your professional network, as well
+                            as those who could use my professional experience to their advantage.</p>
+                        <p>I am a graduate from the University of North Texas, where I obtained a degree in Computer Science. I entered into the Information Technology professional world in 2005, where I landed the role of Assistant System Administrator
+                            for a local law firm. Present day, I am a Technology Service Manager, where my primary focus is customer advocacy and helping customers optimize their IT solutions while reducing downtime and outages.</p>
+                        <p>Recently I enrolled in a Bootcamp program, which begins in late-January of 2018 at Southern Methodist University. I am excited because I feel that it will be what I need to jumpstart my career as a full-stack developer. I have
+                            a solid foundation with the front-end development - HTML, CSS and Javascript - but it is the back-end technologies that I have limited exposure. Once I have the confidence to approach and tackle back-end challenges, I will
+                            feel more assure of my place in the development world.
+                        </p>
+                    </div>
+                </div>
+                <div class="container">
+                    <div id="portfolio">
+                        <h2>Portfolio</h2>
+                        <p class="text-center">This section is current under construction. As my experience improves, I will add more examples of my capabilities by using projects that are either completed or under way. Please bear with me, it will be worth your while.</p>
+                        <div class="container">
+                            <div class="row" id="row1">
+                                <div class="col-md-2"></div>
+                                <div class="col-md-4">
+                                    <div class="thumbnail">
+                                        <a href="#">
+                                            <img src="http://via.placeholder.com/150x100" alt="Placeholder" style="width:100%">
+                                            <div class="caption">
+                                                <p class="text-center" id="portfolio_img1">Please check back later.</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="thumbnail">
+                                        <a href="#">
+                                            <img src="http://via.placeholder.com/150x100" alt="Placeholder" style="width:100%">
+                                            <div class="caption">
+                                                <p class="text-center" id="portfolio_img2">Please check back later.</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row" id="row2">
+                                <div class="col-md-2"></div>
+                                <div class="col-md-4">
+                                    <div class="thumbnail">
+                                        <a href="#">
+                                            <img src="http://via.placeholder.com/150x100" alt="Placeholder" style="width:100%">
+                                            <div class="caption">
+                                                <p class="text-center" id="portfolio_img3">Please check back later.</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="thumbnail">
+                                        <a href="#">
+                                            <img src="http://via.placeholder.com/150x100" alt="Placeholder" style="width:100%">
+                                            <div class="caption">
+                                                <p class="text-center" id="portfolio_img4">Please check back later.</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row" id="row3">
+                                <div class="col-md-2"></div>
+                                <div class="col-md-4">
+                                    <div class="thumbnail">
+                                        <a href="#">
+                                            <img src="http://via.placeholder.com/150x100" alt="Placeholder" style="width:100%">
+                                            <div class="caption">
+                                                <p class="text-center" id="portfolio_img5">Please check back later.</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="thumbnail">
+                                    <a href="#">
+                                        <img src="http://via.placeholder.com/150x100" alt="Placeholder" style="width:100%">
+                                        <div class="caption">
+                                            <p class="text-center" id="portfolio_img6">Please check back later.</p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br>
+                <br>
+                <div class="container">
+                    <h2 class="text-center">Contact Information</h2>
+                    <div class="row" id="contact">
+                        <div class="col-md-2"></div>
+                        <div class="col-md-8">
+                            <p>If you would like to reach me, whether it be for inquiries or possible opportunities, please fill out the form below. For convenience, feel free to contact me on any of the social media platforms identified.</p>
+                        </div>
+                        <div class="col-md-2"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-5"></div>
+                        <div class="col-md-2">
+                            <a class="btn btn-primary fa fa-linkedin" href="http://www.linkedin.com/in/courtmontgomery">LinkedIn</a>
+                        </div>
+                        <div class="col-md-5"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-5"></div>
+                        <div class="col-md-2">
+                            <a class="btn btn-primary fa fa-github" href="http://www.github.com/CourtneyDM">GitHub</a>
+                        </div>
+                        <div class="col-md-5"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-5"></div>
+                        <div class="col-md-2">
+                            <a class="btn btn-primary fa fa-twitter twitter-follow-button" href="https://twitter.com/courtneydm_?ref_src=twsrc%5Etfw" data-show-count="false">Follow @courtneydm_</a>
+                            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                        </div>
+                        <div class="col-md-5"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <a class="twitter-timeline" data-width="300" data-height="1000" data-theme="light" href="https://twitter.com/CourtneyDM_?ref_src=twsrc%5Etfw">Tweets by CourtneyDM_</a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+        </div>
+    </body>
+
+    </html>
