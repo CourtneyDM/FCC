@@ -27,28 +27,27 @@
                     <a class="nav-link" href="#contact">Contact</a>
                 </li>
             </ul>
+            <span class="navbar-text"> | Web Developer</span>
 
         </nav>
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-3" id="about">
+                <div class="col-md-3" id="contact">
                     <div>
                         <img id="profile_pic" src="https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAiKAAAAJDRiYWJmZTgxLTE4ZjAtNGNjZi1iNzM0LTA4ZWQzYTAzNjNiOQ.jpg">
-                        <h5>About me</h5>
-                        <ul>
-                            <li>Technology Service Manager, Dell EMC</li>
-                            <li>SMU Coding Bootcamp Cohort</li>
-                            <li>Bachelor of Arts in Computer Science</li>
-                            <li>ITIL Foundations Certified</li>
-                        </ul>
-                    </div>
-                    <div>
-                        <h5>Social Media Presence</h5>
                         <div class="row">
-                            <a class="btn btn-primary fa fa-linkedin" href="http://www.linkedin.com/in/courtmontgomery">LinkedIn</a>
+                    		<h5 id="">Contact Me:</h5>
+	                    	<form action="#">
+	                    		<input type="text" name="email" placeholder="email address">
+	                    		<button type="submit">Submit</button>
+	                    	</form>
+	                    </div>
+
+                        <div class="row">
+                            <a class="btn btn-info fa fa-linkedin" href="http://www.linkedin.com/in/courtmontgomery">LinkedIn</a>
                         </div>
                         <div class="row">
-                            <a class="btn btn-primary fa fa-github" href="http://www.github.com/CourtneyDM">GitHub</a>
+                            <a class="btn btn-dark fa fa-github" href="http://www.github.com/CourtneyDM">GitHub</a>
                         </div>
                         <div class="row">
                             <a class="btn btn-primary fa fa-twitter" href="https://twitter.com/courtneydm_">Twitter</a>
@@ -56,7 +55,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div>
+                    <div id="About">
                         <h1>Developing a Developer</h1>
                         <p>A highly motivated IT professional with a wide area of technical knowledge, from Client/Enterprise solutions to web development. I work well under intense conditions, whether it be with a team or alone. I am go-getter and resourceful
                             person, yet I have no problems asking for help when necessary. I lead by example, and am responsible and dependable. I look forward to connecting with those of you who are looking to expand your professional network, as well
@@ -82,7 +81,7 @@
                                             <a href="#">
                                                 <img class="img-responsive" src="http://via.placeholder.com/150x100" alt="Placeholder" style="width:100%">
                                                 <div class="caption">
-                                                    <p class="text-center" id="portfolio_img1">Please check back later.</p>
+                                                    <p class="text-center" id="portfolio_img1">Portfolio 1</p>
                                                 </div>
                                             </a>
                                         </div>
@@ -92,7 +91,7 @@
                                             <a href="#">
                                                 <img class="img-responsive" src="http://via.placeholder.com/150x100" alt="Placeholder" style="width:100%">
                                                 <div class="caption">
-                                                    <p class="text-center" id="portfolio_img2">Please check back later.</p>
+                                                    <p class="text-center" id="portfolio_img2">Portfolio 2</p>
                                                 </div>
                                             </a>
                                         </div>
@@ -102,7 +101,7 @@
                                             <a href="#">
                                                 <img class="img-responsive" src="http://via.placeholder.com/150x100" alt="Placeholder" style="width:100%">
                                                 <div class="caption">
-                                                    <p class="text-center" id="portfolio_img2">Please check back later.</p>
+                                                    <p class="text-center" id="portfolio_img2">Portfolio 3</p>
                                                 </div>
                                             </a>
                                         </div>
@@ -116,7 +115,7 @@
                                             <a href="#">
                                                 <img class="img-responsive" src="http://via.placeholder.com/150x100" alt="Placeholder" style="width:100%">
                                                 <div class="caption">
-                                                    <p class="text-center" id="portfolio_img3">Please check back later.</p>
+                                                    <p class="text-center" id="portfolio_img3">Portfolio 4</p>
                                                 </div>
                                             </a>
                                         </div>
@@ -126,7 +125,7 @@
                                             <a href="#">
                                                 <img class="img-responsive" src="http://via.placeholder.com/150x100" alt="Placeholder" style="width:100%">
                                                 <div class="caption">
-                                                    <p class="text-center" id="portfolio_img4">Please check back later.</p>
+                                                    <p class="text-center" id="portfolio_img4">Portfolio 5</p>
                                                 </div>
                                             </a>
                                         </div>
@@ -136,7 +135,7 @@
                                             <a href="#">
                                                 <img class="img-responsive" src="http://via.placeholder.com/150x100" alt="Placeholder" style="width:100%">
                                                 <div class="caption">
-                                                    <p class="text-center" id="portfolio_img3">Please check back later.</p>
+                                                    <p class="text-center" id="portfolio_img3">Portfolio 6</p>
                                                 </div>
                                             </a>
                                         </div>
@@ -150,7 +149,7 @@
                                             <a href="#">
                                                 <img class="img-responsive" src="http://via.placeholder.com/150x100" alt="Placeholder" style="width:100%">
                                                 <div class="caption">
-                                                    <p class="text-center" id="portfolio_img5">Please check back later.</p>
+                                                    <p class="text-center" id="portfolio_img5">Portfolio 7</p>
                                                 </div>
                                             </a>
                                         </div>
@@ -160,7 +159,7 @@
                                             <a href="#">
                                                 <img class="img-responsive" src="http://via.placeholder.com/150x100" alt="Placeholder" style="width:100%">
                                                 <div class="caption">
-                                                    <p class="text-center" id="portfolio_img6">Please check back later.</p>
+                                                    <p class="text-center" id="portfolio_img6">Portfolio 8</p>
                                                 </div>
                                             </a>
                                         </div>
@@ -170,14 +169,14 @@
                                             <a href="#">
                                                 <img class="img-responsive" src="http://via.placeholder.com/150x100" alt="Placeholder" style="width:100%">
                                                 <div class="caption">
-                                                    <p class="text-center" id="portfolio_img3">Please check back later.</p>
+                                                    <p class="text-center" id="portfolio_img3">Portfolio 9</p>
                                                 </div>
                                             </a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="container">
+                            <!-- <div class="container">
                                 <h2 class="text-center">Contact Information</h2>
                                 <div class="row" id="contact">
                                     <div class="col-md-2"></div>
@@ -208,7 +207,7 @@
                                     </div>
                                     <div class="col-md-5"></div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
