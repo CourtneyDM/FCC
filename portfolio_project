@@ -2,6 +2,7 @@
     <html>
 
     <head>
+    	<meta name="viewpoint" content="width=device-width, initial-scale=1">
         <!-- Including stylesheet designs -->
         <link rel="stylesheet" href="style.css">
         <!-- Including Bootstrap 4 -->
@@ -45,10 +46,10 @@
 
                         <div class="row">
                             <a class="btn btn-info fa fa-linkedin" href="http://www.linkedin.com/in/courtmontgomery">LinkedIn</a>
-                        </div>
+                        </div><br>
                         <div class="row">
                             <a class="btn btn-dark fa fa-github" href="http://www.github.com/CourtneyDM">GitHub</a>
-                        </div>
+                        </div><br>
                         <div class="row">
                             <a class="btn btn-primary fa fa-twitter" href="https://twitter.com/courtneydm_">Twitter</a>
                         </div>
